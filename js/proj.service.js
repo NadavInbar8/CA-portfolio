@@ -2,24 +2,6 @@ console.log('hello world');
 
 const gProjs = [
   _createProject(
-    'dice-game',
-    'Dice Game',
-    'roll the dice ',
-    '2 players dice game',
-    'https://nadavinbar8.github.io/Dice-Game/',
-    1630324800000,
-    ['vanilaJS', 'strings']
-  ),
-  _createProject(
-    'guess-game',
-    'Guess Game',
-    'guess the game',
-    'a number between 1-20 is generated and you need to guess it',
-    'https://nadavinbar8.github.io/Guess-Game/',
-    1629288000000,
-    ['vanilaJS', 'strings']
-  ),
-  _createProject(
     'minesweeper',
     'MineSweeper',
     'Nadav Minesweeper',
@@ -36,6 +18,24 @@ const gProjs = [
     'https://www.lorguardian.com/',
     1637841600000,
     ['Angular', 'Gaming', 'Cards']
+  ),
+  _createProject(
+    'dice-game',
+    'Dice Game',
+    'roll the dice ',
+    '2 players dice game',
+    'https://nadavinbar8.github.io/Dice-Game/',
+    1630324800000,
+    ['vanilaJS', 'strings']
+  ),
+  _createProject(
+    'guess-game',
+    'Guess Game',
+    'guess the game',
+    'a number between 1-20 is generated and you need to guess it',
+    'https://nadavinbar8.github.io/Guess-Game/',
+    1629288000000,
+    ['vanilaJS', 'strings']
   ),
 ];
 
